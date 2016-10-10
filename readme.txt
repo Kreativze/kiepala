@@ -49,3 +49,5 @@
 
           -  conception et validation saisi absence prof 
           - mise en route de l'index1.php et integration du menup de sylvain
+/* sylvain
+	- Sécurisation index.php dans le repertoire Administrateur/Recap
